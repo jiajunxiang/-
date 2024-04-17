@@ -1,0 +1,3 @@
+1.安装java解释器，不会安装的请前往https://blog.csdn.net/weixin_62825199/article/details/129750398
+2.安装mysql数据库，不会安装的请前往https://blog.csdn.net/Starinfo/article/details/131828321，完成之后把数据库文件夹里面的数据库文件导入到mysql数据库中
+3.StockWinform.jar文件是打包好的成品，在前面两个步骤没有问题的情况下可以直接打开
